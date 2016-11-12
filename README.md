@@ -18,4 +18,4 @@
 * Sy Hung NGHIEM - Université de Technologie de Troyes
 * Nguyen Quoc Cuong TRAN - Université de Technologie de Troyes
 
-## Merci à la société Pandocréon
+## Merci à la société <a href="http://www.pandocreon.fr/jeux/menhir/">Pandocréon</a>
