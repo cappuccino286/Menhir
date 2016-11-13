@@ -12,7 +12,6 @@
 <img src="https://cappuccino286.github.io/img/projet2.png"/>
 ## À télécharger
 * Fichier JAR: <b>menhir.jar</b>
-* Fichier RAR: <b>menhir.rar</b>
 
 ## Auteur
 * Sy Hung NGHIEM - Université de Technologie de Troyes
